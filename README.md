@@ -1,12 +1,12 @@
 **Unveiling the Anomalies: Using Autoencoders for Detecting Structural Changes in Huntington's Disease from MRI Images**
 
 **Table of Contents**
-Introduction
-Project Objective
-Methodology
-Technologies Used
-Model Architecture
-Results
+1. Introduction
+2. Project Objective
+3. Methodology
+4. Technologies Used
+5. Model Architecture
+6. Results
 
 **Introduction**
 Huntington's Disease (HD) is a genetic neurodegenerative disorder that causes the progressive breakdown of nerve cells in the brain, leading to cognitive and motor function impairments. The ability to detect early structural changes in the brain is critical for early diagnosis and intervention.
